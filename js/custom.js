@@ -36,7 +36,7 @@ $(function () {
 		});
 	});
 	
-	
+
 	
 	
 	/* Toggle sidebar
